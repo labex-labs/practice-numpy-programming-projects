@@ -14,16 +14,16 @@ NumPy 是 Python 中科学计算的基础。此技能树为学习 NumPy 提供�
 
 |   序号 | 名称                                                                                                                | 难度   | 练习                                                                                                       |
 |--------|---------------------------------------------------------------------------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------|
-|      1 | [使用 OpenCV 创建 ASCII 艺术动画](https://labex.io/zh/courses/project-ascii-art-animation-with-opencv)              | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-ascii-art-animation-with-opencv)                         |
-|      2 | [地球与超级木星的引力模拟](https://labex.io/zh/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
-|      3 | [K-近邻回归算法实现](https://labex.io/zh/courses/project-k-nearest-neighbors-regression-algorithm-implementation)   | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
-|      4 | [实现闵可夫斯基距离度量](https://labex.io/zh/courses/project-implementing-minkowski-distance-metric)                | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-implementing-minkowski-distance-metric)                  |
-|      5 | [多项式回归的实现](https://labex.io/zh/courses/project-polynomial-regression-implementation-and-application)        | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-polynomial-regression-implementation-and-application)    |
-|      6 | [简单手写字符识别分类器](https://labex.io/zh/courses/project-simple-handwritten-character-recognition-classifier)   | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-simple-handwritten-character-recognition-classifier)     |
+|      1 | [使用 OpenCV 创建 ASCII 艺术动画](https://labex.io/zh/courses/project-ascii-art-animation-with-opencv)              | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-ascii-art-animation-with-opencv)                         |
+|      2 | [地球与超级木星的引力模拟](https://labex.io/zh/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
+|      3 | [K-近邻回归算法实现](https://labex.io/zh/courses/project-k-nearest-neighbors-regression-algorithm-implementation)   | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
+|      4 | [实现闵可夫斯基距离度量](https://labex.io/zh/courses/project-implementing-minkowski-distance-metric)                | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-implementing-minkowski-distance-metric)                  |
+|      5 | [多项式回归的实现](https://labex.io/zh/courses/project-polynomial-regression-implementation-and-application)        | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-polynomial-regression-implementation-and-application)    |
+|      6 | [简单手写字符识别分类器](https://labex.io/zh/courses/project-simple-handwritten-character-recognition-classifier)   | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-simple-handwritten-character-recognition-classifier)     |
 
 ## 更多
 
 - 🔗 [NumPy 了解更多](https://labex.io/zh/skilltrees/numpy)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [精选编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [精选编程课程](https://github.com/labex-labs/awesome-programming-courses)
 
