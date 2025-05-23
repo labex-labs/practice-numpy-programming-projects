@@ -14,16 +14,16 @@ NumPy は Python における科学計算の基盤です。このスキルツリ
 
 |   インデックス | 名前                                                                                                                                | 難易度   | 練習                                                                                                         |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------|
-|              1 | [OpenCV を使った ASCII アートアニメーション](https://labex.io/ja/courses/project-ascii-art-animation-with-opencv)                   | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-ascii-art-animation-with-opencv)                         |
-|              2 | [地球とスーパー木星の重力シミュレーション](https://labex.io/ja/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
-|              3 | [K 近傍法回帰アルゴリズムの実装](https://labex.io/ja/courses/project-k-nearest-neighbors-regression-algorithm-implementation)       | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
-|              4 | [ミンコフスキー距離指標の実装](https://labex.io/ja/courses/project-implementing-minkowski-distance-metric)                          | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-implementing-minkowski-distance-metric)                  |
-|              5 | [多項式回帰の実装](https://labex.io/ja/courses/project-polynomial-regression-implementation-and-application)                        | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-polynomial-regression-implementation-and-application)    |
-|              6 | [シンプルな手書き文字認識分類器](https://labex.io/ja/courses/project-simple-handwritten-character-recognition-classifier)           | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-simple-handwritten-character-recognition-classifier)     |
+|              1 | [OpenCV を使った ASCII アートアニメーション](https://labex.io/ja/courses/project-ascii-art-animation-with-opencv)                   | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-ascii-art-animation-with-opencv)                         |
+|              2 | [地球とスーパー木星の重力シミュレーション](https://labex.io/ja/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
+|              3 | [K 近傍法回帰アルゴリズムの実装](https://labex.io/ja/courses/project-k-nearest-neighbors-regression-algorithm-implementation)       | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
+|              4 | [ミンコフスキー距離指標の実装](https://labex.io/ja/courses/project-implementing-minkowski-distance-metric)                          | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-implementing-minkowski-distance-metric)                  |
+|              5 | [多項式回帰の実装](https://labex.io/ja/courses/project-polynomial-regression-implementation-and-application)                        | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-polynomial-regression-implementation-and-application)    |
+|              6 | [シンプルな手書き文字認識分類器](https://labex.io/ja/courses/project-simple-handwritten-character-recognition-classifier)           | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-simple-handwritten-character-recognition-classifier)     |
 
 ## その他
 
 - 🔗 [NumPy 詳細について](https://labex.io/ja/skilltrees/numpy)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [素晴らしいプログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [素晴らしいプログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
 
