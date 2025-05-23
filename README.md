@@ -12,18 +12,18 @@ NumPy is the foundation of scientific computing in Python. This Skill Tree provi
 
 ## Exercises
 
-|   Index | Name                                                                                                                                                   | Difficulty   | Practice                                                                                                    |
-|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------|
-|       1 | [ASCII Art Animation With OpenCV](https://labex.io/en/courses/project-ascii-art-animation-with-opencv)                                                 | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-ascii-art-animation-with-opencv)                         |
-|       2 | [Gravitational Simulation of Earth and Super Jupiter](https://labex.io/en/courses/project-gravitational-simulation-of-earth-and-super-jupiter)         | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
-|       3 | [K-Nearest Neighbors Regression Algorithm Implementation](https://labex.io/en/courses/project-k-nearest-neighbors-regression-algorithm-implementation) | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
-|       4 | [Implementing Minkowski Distance Metric](https://labex.io/en/courses/project-implementing-minkowski-distance-metric)                                   | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-implementing-minkowski-distance-metric)                  |
-|       5 | [Implementation of Polynomial Regression](https://labex.io/en/courses/project-polynomial-regression-implementation-and-application)                    | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-polynomial-regression-implementation-and-application)    |
-|       6 | [Simple Handwritten Character Recognition Classifier](https://labex.io/en/courses/project-simple-handwritten-character-recognition-classifier)         | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-simple-handwritten-character-recognition-classifier)     |
+|   Index | Name                                                                                                                                                | Difficulty   | Practice                                                                                                 |
+|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------|
+|       1 | [ASCII Art Animation With OpenCV](https://labex.io/courses/project-ascii-art-animation-with-opencv)                                                 | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-ascii-art-animation-with-opencv)                         |
+|       2 | [Gravitational Simulation of Earth and Super Jupiter](https://labex.io/courses/project-gravitational-simulation-of-earth-and-super-jupiter)         | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
+|       3 | [K-Nearest Neighbors Regression Algorithm Implementation](https://labex.io/courses/project-k-nearest-neighbors-regression-algorithm-implementation) | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
+|       4 | [Implementing Minkowski Distance Metric](https://labex.io/courses/project-implementing-minkowski-distance-metric)                                   | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-implementing-minkowski-distance-metric)                  |
+|       5 | [Implementation of Polynomial Regression](https://labex.io/courses/project-polynomial-regression-implementation-and-application)                    | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-polynomial-regression-implementation-and-application)    |
+|       6 | [Simple Handwritten Character Recognition Classifier](https://labex.io/courses/project-simple-handwritten-character-recognition-classifier)         | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-simple-handwritten-character-recognition-classifier)     |
 
 ## More
 
-- 🔗 [NumPy Learn more about](https://labex.io/en/skilltrees/numpy)
+- 🔗 [NumPy Learn more about](https://labex.io/skilltrees/numpy)
 - 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
