@@ -14,16 +14,16 @@ NumPy 는 Python 과학 컴퓨팅의 기반입니다. 이 스킬 트리는 NumPy
 
 |   인덱스 | 이름                                                                                                                            | 난이도   | 연습                                                                                                        |
 |----------|---------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|
-|        1 | [OpenCV 를 활용한 ASCII 아트 애니메이션](https://labex.io/ko/courses/project-ascii-art-animation-with-opencv)                   | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-ascii-art-animation-with-opencv)                         |
-|        2 | [지구와 슈퍼 목성의 중력 시뮬레이션](https://labex.io/ko/courses/project-gravitational-simulation-of-earth-and-super-jupiter)   | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
-|        3 | [K-최근접 이웃 회귀 알고리즘 구현](https://labex.io/ko/courses/project-k-nearest-neighbors-regression-algorithm-implementation) | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
-|        4 | [민코프스키 거리 메트릭 구현](https://labex.io/ko/courses/project-implementing-minkowski-distance-metric)                       | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-implementing-minkowski-distance-metric)                  |
-|        5 | [다항 회귀 구현](https://labex.io/ko/courses/project-polynomial-regression-implementation-and-application)                      | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-polynomial-regression-implementation-and-application)    |
-|        6 | [간단한 손글씨 문자 인식 분류기](https://labex.io/ko/courses/project-simple-handwritten-character-recognition-classifier)       | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-simple-handwritten-character-recognition-classifier)     |
+|        1 | [OpenCV 를 활용한 ASCII 아트 애니메이션](https://labex.io/ko/courses/project-ascii-art-animation-with-opencv)                   | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-ascii-art-animation-with-opencv)                         |
+|        2 | [지구와 슈퍼 목성의 중력 시뮬레이션](https://labex.io/ko/courses/project-gravitational-simulation-of-earth-and-super-jupiter)   | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
+|        3 | [K-최근접 이웃 회귀 알고리즘 구현](https://labex.io/ko/courses/project-k-nearest-neighbors-regression-algorithm-implementation) | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
+|        4 | [민코프스키 거리 메트릭 구현](https://labex.io/ko/courses/project-implementing-minkowski-distance-metric)                       | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-implementing-minkowski-distance-metric)                  |
+|        5 | [다항 회귀 구현](https://labex.io/ko/courses/project-polynomial-regression-implementation-and-application)                      | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-polynomial-regression-implementation-and-application)    |
+|        6 | [간단한 손글씨 문자 인식 분류기](https://labex.io/ko/courses/project-simple-handwritten-character-recognition-classifier)       | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-simple-handwritten-character-recognition-classifier)     |
 
 ## 더 보기
 
 - 🔗 [NumPy 자세히 알아보기](https://labex.io/ko/skilltrees/numpy)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [멋진 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [멋진 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
 
