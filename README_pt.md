@@ -14,16 +14,16 @@ NumPy é a base da computação científica em Python. Esta Skill Tree oferece u
 
 |   Índice | Nome                                                                                                                                                         | Dificuldade   | Prática                                                                                                       |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------|
-|        1 | [Animação de Arte ASCII com OpenCV](https://labex.io/pt/courses/project-ascii-art-animation-with-opencv)                                                     | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-ascii-art-animation-with-opencv)                         |
-|        2 | [Simulação Gravitacional da Terra e Super Júpiter](https://labex.io/pt/courses/project-gravitational-simulation-of-earth-and-super-jupiter)                  | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
-|        3 | [Implementação do Algoritmo de Regressão K-Nearest Neighbors](https://labex.io/pt/courses/project-k-nearest-neighbors-regression-algorithm-implementation)   | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
-|        4 | [Implementando a Métrica de Distância Minkowski](https://labex.io/pt/courses/project-implementing-minkowski-distance-metric)                                 | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-implementing-minkowski-distance-metric)                  |
-|        5 | [Implementação de Regressão Polinomial](https://labex.io/pt/courses/project-polynomial-regression-implementation-and-application)                            | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-polynomial-regression-implementation-and-application)    |
-|        6 | [Classificador Simples de Reconhecimento de Caracteres Manuscritos](https://labex.io/pt/courses/project-simple-handwritten-character-recognition-classifier) | ★☆☆           | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-simple-handwritten-character-recognition-classifier)     |
+|        1 | [Animação de Arte ASCII com OpenCV](https://labex.io/pt/courses/project-ascii-art-animation-with-opencv)                                                     | Iniciante     | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-ascii-art-animation-with-opencv)                         |
+|        2 | [Simulação Gravitacional da Terra e Super Júpiter](https://labex.io/pt/courses/project-gravitational-simulation-of-earth-and-super-jupiter)                  | Iniciante     | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
+|        3 | [Implementação do Algoritmo de Regressão K-Nearest Neighbors](https://labex.io/pt/courses/project-k-nearest-neighbors-regression-algorithm-implementation)   | Iniciante     | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
+|        4 | [Implementando a Métrica de Distância Minkowski](https://labex.io/pt/courses/project-implementing-minkowski-distance-metric)                                 | Iniciante     | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-implementing-minkowski-distance-metric)                  |
+|        5 | [Implementação de Regressão Polinomial](https://labex.io/pt/courses/project-polynomial-regression-implementation-and-application)                            | Iniciante     | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-polynomial-regression-implementation-and-application)    |
+|        6 | [Classificador Simples de Reconhecimento de Caracteres Manuscritos](https://labex.io/pt/courses/project-simple-handwritten-character-recognition-classifier) | Iniciante     | [🚀 Iniciar Lab](https://labex.io/pt/courses/project-simple-handwritten-character-recognition-classifier)     |
 
 ## Mais
 
 - 🔗 [NumPy Saiba mais sobre](https://labex.io/pt/skilltrees/numpy)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Projetos de Programação Incríveis](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cursos de Programação Incríveis](https://github.com/labex-labs/awesome-programming-courses)
 
