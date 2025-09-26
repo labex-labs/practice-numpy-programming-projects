@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/gdqX0QgXsYjL.png">
 </div>
 
-NumPy est la base du calcul scientifique en Python. Cet arbre de compétences offre une méthode systématique pour apprendre NumPy. Idéal pour les débutants en science des données, il propose un parcours d'apprentissage structuré pour maîtriser les opérations sur les tableaux, le broadcasting et les algorithmes numériques. Des cours pratiques sans vidéo et des exercices dans un environnement d'analyse numérique vous aident à développer des compétences concrètes en manipulation et calcul de données efficaces.
+Apprenez NumPy, le fondement du calcul scientifique en Python, grâce à un parcours d'apprentissage structuré conçu pour les débutants. Cette collection de cours pratiques sur NumPy offre un moyen systématique de maîtriser les opérations sur les tableaux (arrays), le broadcasting et les algorithmes numériques. Grâce à des exercices pratiques dans un environnement de calcul numérique, développez des compétences concrètes en manipulation et calcul efficaces des données. Cette feuille de route est idéale pour toute personne débutant son parcours en science des données.
 
 ## Exercices
 
