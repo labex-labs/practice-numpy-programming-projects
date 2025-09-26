@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/gdqX0QgXsYjL.png">
 </div>
 
-NumPy es la base de la computación científica en Python. Este Skill Tree ofrece una forma sistemática de aprender NumPy. Ideal para principiantes en ciencia de datos, proporciona un camino de aprendizaje estructurado para dominar operaciones con arreglos, broadcasting y algoritmos numéricos. Cursos prácticos sin video y ejercicios en un entorno de análisis numérico te ayudarán a desarrollar habilidades del mundo real en manipulación y computación de datos de manera eficiente.
+Aprende NumPy, la base de la computación científica en Python, con una ruta de aprendizaje estructurada diseñada para principiantes. Esta colección de cursos prácticos de NumPy proporciona una forma sistemática de dominar las operaciones con arrays, el broadcasting y los algoritmos numéricos. A través de ejercicios prácticos en un entorno de análisis numérico, desarrolla habilidades reales en la manipulación y computación eficiente de datos. Esta hoja de ruta es ideal para cualquiera que comience su viaje en la ciencia de datos.
 
 ## Ejercicios
 
