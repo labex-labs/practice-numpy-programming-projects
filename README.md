@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/gdqX0QgXsYjL.png">
 </div>
 
-NumPy is the foundation of scientific computing in Python. This Skill Tree provides a systematic way to learn NumPy. Ideal for data science beginners, it offers a structured learning path to master array operations, broadcasting, and numerical algorithms. Hands - on, non - video courses and practical exercises in a numerical analysis playground help you develop real - world skills in efficient data manipulation and computation.
+Learn NumPy, the foundation of scientific computing in Python, with a structured learning path designed for beginners. This collection of hands-on NumPy courses provides a systematic way to master array operations, broadcasting, and numerical algorithms. Through practical exercises in a numerical analysis playground, develop real-world skills in efficient data manipulation and computation. This roadmap is ideal for anyone starting their journey in data science.
 
 ## Exercises
 
